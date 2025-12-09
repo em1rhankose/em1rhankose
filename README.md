@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@koseemirhan09](https://medium.com/@koseemirhan09)
 
-- 💬 Ask me about **React & Node.js & Flutter**
+- 💬 Ask me about **React & Node.js & Spring (Spring Framework & Spring Boot) & Flutter**
 
 - 📫 How to reach me **developer.emir.kose@gmail.com**
 
