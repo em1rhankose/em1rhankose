@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emirhan</h1>
-<h3 align="center">Full Stack Developer | React & Node.js & Flutter</h3>
+<h3 align="center">Full Stack Developer | React & Node.js & Java · Spring (Spring Framework & Spring Boot) & Flutter</h3>
 
 - 🌱 I’m currently learning **React & Node.js & Flutter**
 
